@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "token": {
+    "access_token": "access token",
+    "expires_in": 5,
+    "refresh_expires_in": 5,
+    "refresh_token": "refresh"
   }
 }
