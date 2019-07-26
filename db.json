@@ -1,8 +1,8 @@
 {
   "token": {
     "access_token": "access token",
-    "expires_in": 1,
-    "refresh_expires_in": 100,
+    "expires_in": 7200,
+    "refresh_expires_in": 7200,
     "refresh_token": "refresh"
   }
 }
