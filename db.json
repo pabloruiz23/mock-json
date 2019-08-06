@@ -4,7 +4,7 @@
     "expires_in": 7200,
     "refresh_expires_in": 7200,
     "refresh_token": "refresh"
-  }
+  },
   "report": {
     "message": "test message",
     "status": "OK"
